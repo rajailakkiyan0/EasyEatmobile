@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164959613714",
+    "project_id": "easyeatmobile",
+    "storage_bucket": "easyeatmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164959613714:android:e6bf995a007823f85eb9cb",
+        "android_client_info": {
+          "package_name": "in.easyeat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm14qaAKInNDQ1yw9Ddb1UYwsTTWpyJko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
